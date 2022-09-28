@@ -6,6 +6,7 @@ public class Class3 {
 		// TODO Auto-generated method stub
 		System.out.println("hey this is java class");
 		System.out.println("hey this is a change in my project");
+		System.out.println("how are you this new version");
 
 	}
 
